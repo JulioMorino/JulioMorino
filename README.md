@@ -1,6 +1,6 @@
 ## Olá 👋
 
-<p>Sou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas, na Faculdade de Tecnologia (FT/UNICAMP)</p>
+<p>Estou graduando Tecnologia em Análise e Desenvolvimento de Sistemas, na Faculdade de Tecnologia (FT/UNICAMP)</p>
 
 
 
