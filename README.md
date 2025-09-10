@@ -1,10 +1,10 @@
 ## Olá 👋
 
-<p>Estou graduando Tecnologia em Análise e Desenvolvimento de Sistemas, na Faculdade de Tecnologia (FT/UNICAMP)</p>
+<p>Sou graduado em Tecnologia em Análise e Desenvolvimento de Sistemas, na Faculdade de Tecnologia (FT/UNICAMP)</p>
 
 
 
-Atualmente, gosto de aprender sobre:
+Atualmente, foco em:
 <div style="display: inline_block"><br>
 <img align="center" width = "40"  src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">&nbsp;&nbsp;&nbsp;
 <img align="center" width = "30"  src="https://github.com/user-attachments/assets/93a238b3-5589-4af0-bd97-6f01b808b5de">&nbsp;&nbsp;&nbsp;
