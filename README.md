@@ -6,7 +6,6 @@
 
 Atualmente, foco em:
 <div style="display: inline_block"><br>
-<img align="center" width = "40"  src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">&nbsp;&nbsp;&nbsp;
 <img align="center" width = "30"  src="https://github.com/user-attachments/assets/93a238b3-5589-4af0-bd97-6f01b808b5de">&nbsp;&nbsp;&nbsp;
 <img align="center" width = "40" src="https://github.com/user-attachments/assets/28ab7e2a-8b7f-4566-a8b3-8b167a75540d">&nbsp;&nbsp;&nbsp;
 <img  align="center" width = "50" src="https://github.com/user-attachments/assets/c7947add-75c2-4748-a764-9c3279fe00e5">&nbsp;&nbsp;&nbsp;
